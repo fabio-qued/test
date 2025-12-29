@@ -1,2 +1,3 @@
 This file demonstrates squash merge.
 Commit 1: Initial setup
+Commit 2: Add more content
