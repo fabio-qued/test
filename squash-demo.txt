@@ -1,0 +1,6 @@
+This file demonstrates squash merge.
+Commit 1: Initial setup
+Commit 2: Add more content
+Commit 3: Final touches
+
+When this PR is squashed, all three commits become one!
