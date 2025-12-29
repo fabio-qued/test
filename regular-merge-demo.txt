@@ -1,3 +1,6 @@
 This file demonstrates regular merge.
 Commit 1: Initial setup
 Commit 2: Add more content
+Commit 3: Final touches
+
+When this PR is merged normally, all three commits are preserved!
